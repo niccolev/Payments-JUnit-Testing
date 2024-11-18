@@ -7,7 +7,6 @@ package lab4;
 public class YourPurchases
 {
 
-	// Canadian money is expressed as "dollars".
 	// A dollar has 100 "cents".
 	// All values are expressed as dollars in this code.
 	// There is a one-dollar coin nicknamed the "loonie".
