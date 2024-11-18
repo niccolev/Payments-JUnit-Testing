@@ -22,8 +22,6 @@ public class YourPurchasesTest {
 	}
 
 	
-//	  YOUR TASKS ARE STATED HERE: 
-	
 	@Test
 	public void testGetPurchases() {
 		YourPurchases purchase = new YourPurchases();
@@ -73,14 +71,4 @@ public class YourPurchasesTest {
 	}
 	
 	
-	
-//	
-	
-	
-	
-	   // RUN THE TEST CASE IN YourPurchasesTest.java, TO SHOW AN EXAMPLE OF AN UNSUCCESSFUL EXECUTION
-	   // IMPROVE THIS CODE BY SYSTEMATICALLY ADDING MORE individual TEST CASES 
-		//  (NOT ALREADY STATED IN THIS CODE) TO LOCATE THE METHOD THAT IS CAUSING THE TEST FAILURE
-	   
-	   // ADD NEW TEST CASES HERE!!!
 }
